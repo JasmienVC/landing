@@ -1,0 +1,25 @@
+.footer {
+  height: 150px;
+  padding: 50px 100px 0px 100px;
+  background-color: #d3b7a0
+}
+
+.icons-inline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-small {
+  width: 30px;
+  height: 30px;
+  color: black;
+}
+
+.icon-small:hover {
+  color: rgb(100, 100, 100);
+}
+
+.footer h2 {
+  text-align: center;
+}
